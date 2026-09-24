@@ -1,0 +1,1 @@
+反向抽鬼牌vC7_0919前_0922v6.py default {"run_turn_calls": 907556, "declare_fail": 7175, "no_draw_calls": 15811, "p_set": 3311, "p_next_not_self": 2093, "p_resolved": 2051, "p_cond": 1939, "p_invalid": 112, "p_invalid_delayed": 112, "sum_turn_count": 907556, "declare_fail_games": 6034}

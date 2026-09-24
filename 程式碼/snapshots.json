@@ -1,0 +1,2948 @@
+[
+  {
+    "snapshot_id": 5,
+    "ts": 1790099150.026442,
+    "label": "after_setup",
+    "state": {
+      "engine": {
+        "turn_count": 0,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥6]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]",
+            "[♦K]"
+          ],
+          "hand_size": 8,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♣Q]",
+            "[♥2]",
+            "[♦J]",
+            "[♥9]",
+            "[♦6]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "🌟[10分]",
+            "[♣K]",
+            "[♦7]",
+            "[♦4]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "🌟[2分]",
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♥Q]",
+            "[♠J]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 11,
+    "ts": 1790099150.0265424,
+    "label": "after_open_round",
+    "state": {
+      "engine": {
+        "turn_count": 0,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]",
+            "[♦K]",
+            "🌟[2分]"
+          ],
+          "hand_size": 8,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♣Q]",
+            "[♥2]",
+            "[♦J]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♦4]",
+            "[♥9]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♥Q]",
+            "[♠J]",
+            "🌟[10分]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 13,
+    "ts": 1790099150.0265803,
+    "label": "after_turn_1",
+    "state": {
+      "engine": {
+        "turn_count": 1,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]",
+            "[♦K]",
+            "🌟[2分]"
+          ],
+          "hand_size": 8,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♣Q]",
+            "[♥2]",
+            "[♦J]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♦4]",
+            "[♥9]",
+            "🌟[10分]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♥Q]",
+            "[♠J]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 15,
+    "ts": 1790099150.0266151,
+    "label": "after_turn_2",
+    "state": {
+      "engine": {
+        "turn_count": 2,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]",
+            "[♦K]",
+            "🌟[2分]"
+          ],
+          "hand_size": 8,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♣Q]",
+            "[♥2]",
+            "[♦J]",
+            "[♦4]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♥9]",
+            "🌟[10分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♥Q]",
+            "[♠J]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 17,
+    "ts": 1790099150.026649,
+    "label": "after_turn_3",
+    "state": {
+      "engine": {
+        "turn_count": 3,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]",
+            "[♦K]",
+            "🌟[2分]",
+            "[♣Q]"
+          ],
+          "hand_size": 9,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦J]",
+            "[♦4]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♥9]",
+            "🌟[10分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♥Q]",
+            "[♠J]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 19,
+    "ts": 1790099150.0266814,
+    "label": "after_turn_4",
+    "state": {
+      "engine": {
+        "turn_count": 4,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]",
+            "🌟[2分]",
+            "[♣Q]"
+          ],
+          "hand_size": 8,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦J]",
+            "[♦4]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♥9]",
+            "🌟[10分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♥Q]",
+            "[♠J]",
+            "[♦K]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 22,
+    "ts": 1790099150.0267284,
+    "label": "after_turn_5",
+    "state": {
+      "engine": {
+        "turn_count": 5,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "🌟[2分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]"
+          ],
+          "hand_size": 7,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦J]",
+            "[♦4]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♥9]",
+            "🌟[10分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 24,
+    "ts": 1790099150.026756,
+    "label": "after_turn_6",
+    "state": {
+      "engine": {
+        "turn_count": 6,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦J]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♥9]",
+            "🌟[10分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 26,
+    "ts": 1790099150.0267808,
+    "label": "after_turn_7",
+    "state": {
+      "engine": {
+        "turn_count": 7,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "[♥9]",
+            "🌟[10分]",
+            "[♦J]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 28,
+    "ts": 1790099150.0268042,
+    "label": "after_turn_8",
+    "state": {
+      "engine": {
+        "turn_count": 8,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠9]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]",
+            "[♥9]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "🌟[10分]",
+            "[♦J]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 31,
+    "ts": 1790099150.0268452,
+    "label": "after_turn_9",
+    "state": {
+      "engine": {
+        "turn_count": 9,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]",
+            "[♠7]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "🌟[10分]",
+            "[♦J]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 33,
+    "ts": 1790099150.026874,
+    "label": "after_turn_10",
+    "state": {
+      "engine": {
+        "turn_count": 10,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "🌟[10分]",
+            "[♦J]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♣2]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]",
+            "[♠7]"
+          ],
+          "hand_size": 6,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 35,
+    "ts": 1790099150.026905,
+    "label": "after_turn_11",
+    "state": {
+      "engine": {
+        "turn_count": 11,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "🌟[10分]",
+            "[♦J]",
+            "[♣2]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠J]",
+            "[♦K]",
+            "[♠7]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 38,
+    "ts": 1790099150.0269449,
+    "label": "after_turn_12",
+    "state": {
+      "engine": {
+        "turn_count": 12,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣K]",
+            "[♦7]",
+            "🌟[10分]",
+            "[♣2]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♦K]",
+            "[♠7]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 41,
+    "ts": 1790099150.0269773,
+    "label": "after_turn_13",
+    "state": {
+      "engine": {
+        "turn_count": 13,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "🌟[10分]",
+            "[♦7]",
+            "[♣2]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 43,
+    "ts": 1790099150.0270004,
+    "label": "after_turn_14",
+    "state": {
+      "engine": {
+        "turn_count": 14,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♥4]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "[♦4]",
+            "🌟[2分]",
+            "🌟[10分]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♦7]",
+            "[♣2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 46,
+    "ts": 1790099150.0270321,
+    "label": "after_turn_15",
+    "state": {
+      "engine": {
+        "turn_count": 15,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♦10]",
+            "[♠8]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "🌟[2分]",
+            "🌟[10分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♦7]",
+            "[♣2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 48,
+    "ts": 1790099150.027053,
+    "label": "after_turn_16",
+    "state": {
+      "engine": {
+        "turn_count": 16,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "[♥2]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♦10]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♦7]",
+            "[♣2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 50,
+    "ts": 1790099150.027072,
+    "label": "after_turn_17",
+    "state": {
+      "engine": {
+        "turn_count": 17,
+        "round_count": null,
+        "direction": 1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "🌟[4分]",
+            "[♠8]",
+            "[♥2]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♦10]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♦7]",
+            "[♣2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 52,
+    "ts": 1790099150.0270934,
+    "label": "after_turn_18",
+    "state": {
+      "engine": {
+        "turn_count": 18,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♠8]",
+            "[♥2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♦10]",
+            "🌟[4分]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♦7]",
+            "[♣2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 54,
+    "ts": 1790099150.0271156,
+    "label": "after_turn_19",
+    "state": {
+      "engine": {
+        "turn_count": 19,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": false,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♠8]",
+            "[♥2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♦7]",
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 57,
+    "ts": 1790099150.0271487,
+    "label": "after_turn_20",
+    "state": {
+      "engine": {
+        "turn_count": 20,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♠8]",
+            "[♥2]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♥10]",
+            "[♠7]",
+            "[♦7]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 59,
+    "ts": 1790099150.0271714,
+    "label": "after_turn_21",
+    "state": {
+      "engine": {
+        "turn_count": 21,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♠8]",
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♠7]",
+            "[♦7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 61,
+    "ts": 1790099150.0272007,
+    "label": "after_turn_22",
+    "state": {
+      "engine": {
+        "turn_count": 22,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]",
+            "[♠8]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♠7]",
+            "[♦7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 63,
+    "ts": 1790099150.0272233,
+    "label": "after_turn_23",
+    "state": {
+      "engine": {
+        "turn_count": 23,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]",
+            "[♠8]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♠7]",
+            "[♦7]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 66,
+    "ts": 1790099150.0272634,
+    "label": "after_turn_24",
+    "state": {
+      "engine": {
+        "turn_count": 24,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♠8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 68,
+    "ts": 1790099150.0272863,
+    "label": "after_turn_25",
+    "state": {
+      "engine": {
+        "turn_count": 25,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]",
+            "[♠8]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 70,
+    "ts": 1790099150.0273037,
+    "label": "after_turn_26",
+    "state": {
+      "engine": {
+        "turn_count": 26,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "🌟[4分]",
+            "[♠8]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 72,
+    "ts": 1790099150.0273235,
+    "label": "after_turn_27",
+    "state": {
+      "engine": {
+        "turn_count": 27,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "[♦10]",
+            "🌟[4分]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 74,
+    "ts": 1790099150.02734,
+    "label": "after_turn_28",
+    "state": {
+      "engine": {
+        "turn_count": 28,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "🌟[4分]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♥8]",
+            "[♦10]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 76,
+    "ts": 1790099150.027358,
+    "label": "after_turn_29",
+    "state": {
+      "engine": {
+        "turn_count": 29,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥2]",
+            "[♥10]",
+            "[♥8]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "🌟[4分]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♦10]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 78,
+    "ts": 1790099150.0273757,
+    "label": "after_turn_30",
+    "state": {
+      "engine": {
+        "turn_count": 30,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 4,
+        "reward_cards_in_play": 4
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥10]",
+            "[♥8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♠8]",
+            "[♥2]"
+          ],
+          "hand_size": 5,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [
+            "[♣2]",
+            "🌟[4分]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♦10]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 82,
+    "ts": 1790099150.0274026,
+    "label": "after_turn_31",
+    "state": {
+      "engine": {
+        "turn_count": 31,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 3,
+        "reward_cards_in_play": 3
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥10]",
+            "[♥8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♠8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♦10]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 84,
+    "ts": 1790099150.0274253,
+    "label": "after_turn_32",
+    "state": {
+      "engine": {
+        "turn_count": 32,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 3,
+        "reward_cards_in_play": 3
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥10]",
+            "[♥8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♦10]",
+            "[♠8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 87,
+    "ts": 1790099150.027452,
+    "label": "after_turn_33",
+    "state": {
+      "engine": {
+        "turn_count": 33,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 3,
+        "reward_cards_in_play": 3
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [
+            "[♥8]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♠8]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 89,
+    "ts": 1790099150.0274675,
+    "label": "after_turn_34",
+    "state": {
+      "engine": {
+        "turn_count": 34,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 3,
+        "reward_cards_in_play": 3
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [],
+          "hand_size": 0,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[8分]",
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♥8]"
+          ],
+          "hand_size": 4,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♠8]"
+          ],
+          "hand_size": 1,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 91,
+    "ts": 1790099150.0274832,
+    "label": "after_turn_35",
+    "state": {
+      "engine": {
+        "turn_count": 35,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 3,
+        "reward_cards_in_play": 3
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [],
+          "hand_size": 0,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[2分]",
+            "🌟[10分]",
+            "[♥8]"
+          ],
+          "hand_size": 3,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♠8]",
+            "🌟[8分]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 94,
+    "ts": 1790099150.0275147,
+    "label": "after_turn_35_no_draw",
+    "state": {
+      "engine": {
+        "turn_count": 35,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 2,
+        "reward_cards_in_play": 2
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 2,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [
+            "🌟[10分]",
+            "[♥8]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [
+            "[♠8]",
+            "🌟[8分]"
+          ],
+          "hand_size": 2,
+          "exited": false,
+          "score": 0,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 99,
+    "ts": 1790099150.0275419,
+    "label": "after_turn_36",
+    "state": {
+      "engine": {
+        "turn_count": 36,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 0,
+        "reward_cards_in_play": 0
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 2,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 10,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 8,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  },
+  {
+    "snapshot_id": 100,
+    "ts": 1790099150.0275574,
+    "label": "final_settlement",
+    "state": {
+      "engine": {
+        "turn_count": 36,
+        "round_count": null,
+        "direction": -1,
+        "disaster_triggered": true,
+        "active_player_count": 0,
+        "reward_cards_in_play": 0
+      },
+      "players": [
+        {
+          "name": "Architect_Hsu",
+          "personality": "aggressive",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 2,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Li_Yue",
+          "personality": "conservative",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 10,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_3",
+          "personality": "balanced",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 4,
+          "pending_exit": false,
+          "pending_clear": false
+        },
+        {
+          "name": "Player_4",
+          "personality": "random",
+          "hand": [],
+          "hand_size": 0,
+          "exited": true,
+          "score": 8,
+          "pending_exit": false,
+          "pending_clear": false
+        }
+      ]
+    }
+  }
+]

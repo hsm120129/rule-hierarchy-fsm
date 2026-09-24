@@ -1,0 +1,835 @@
+[
+  {
+    "event_id": 1,
+    "ts": 1790099150.0263622,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Architect_Hsu",
+      "pairs_discarded": 3,
+      "discarded_cards": [
+        "[♣3]",
+        "[♠3]",
+        "[♥3]",
+        "[♦3]",
+        "[♣10]",
+        "[♠10]"
+      ],
+      "force": true,
+      "hand_after": [
+        "🌟[4分]",
+        "[♠9]",
+        "[♦10]",
+        "[♥6]",
+        "[♥4]",
+        "[♠8]",
+        "[♠7]",
+        "[♦K]"
+      ]
+    }
+  },
+  {
+    "event_id": 2,
+    "ts": 1790099150.0263932,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Li_Yue",
+      "pairs_discarded": 4,
+      "discarded_cards": [
+        "[♠4]",
+        "[♣4]",
+        "[♣8]",
+        "[♦8]",
+        "[♣A]",
+        "[♠A]",
+        "[♥J]",
+        "[♣J]"
+      ],
+      "force": true,
+      "hand_after": [
+        "🌟[8分]",
+        "[♣Q]",
+        "[♥2]",
+        "[♦J]",
+        "[♥9]",
+        "[♦6]"
+      ]
+    }
+  },
+  {
+    "event_id": 3,
+    "ts": 1790099150.0264115,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Player_3",
+      "pairs_discarded": 5,
+      "discarded_cards": [
+        "[♣5]",
+        "[♦5]",
+        "[♥7]",
+        "[♣7]",
+        "[♠2]",
+        "[♦2]",
+        "[♦Q]",
+        "[♠Q]",
+        "[♠6]",
+        "[♣6]"
+      ],
+      "force": true,
+      "hand_after": [
+        "🌟[10分]",
+        "[♣K]",
+        "[♦7]",
+        "[♦4]"
+      ]
+    }
+  },
+  {
+    "event_id": 4,
+    "ts": 1790099150.0264227,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Player_4",
+      "pairs_discarded": 4,
+      "discarded_cards": [
+        "[♦9]",
+        "[♣9]",
+        "[♥K]",
+        "[♠K]",
+        "[♥5]",
+        "[♠5]",
+        "[♦A]",
+        "[♥A]"
+      ],
+      "force": true,
+      "hand_after": [
+        "🌟[2分]",
+        "[♥8]",
+        "[♣2]",
+        "[♥10]",
+        "[♥Q]",
+        "[♠J]"
+      ]
+    }
+  },
+  {
+    "event_id": 6,
+    "ts": 1790099150.026477,
+    "event_type": "DRAW",
+    "turn_count": 0,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Li_Yue",
+      "card": "[♥9]"
+    }
+  },
+  {
+    "event_id": 7,
+    "ts": 1790099150.0264895,
+    "event_type": "DRAW",
+    "turn_count": 0,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "[♥6]"
+    }
+  },
+  {
+    "event_id": 8,
+    "ts": 1790099150.0265026,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Li_Yue",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♦6]",
+        "[♥6]"
+      ],
+      "force": true,
+      "reason": "hand_limit",
+      "hand_after": [
+        "🌟[8分]",
+        "[♣Q]",
+        "[♥2]",
+        "[♦J]"
+      ]
+    }
+  },
+  {
+    "event_id": 9,
+    "ts": 1790099150.0265136,
+    "event_type": "DRAW",
+    "turn_count": 0,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Player_4",
+      "card": "🌟[2分]"
+    }
+  },
+  {
+    "event_id": 10,
+    "ts": 1790099150.0265224,
+    "event_type": "DRAW",
+    "turn_count": 0,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Player_3",
+      "card": "🌟[10分]"
+    }
+  },
+  {
+    "event_id": 12,
+    "ts": 1790099150.0265555,
+    "event_type": "DRAW",
+    "turn_count": 1,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Player_4",
+      "card": "🌟[10分]"
+    }
+  },
+  {
+    "event_id": 14,
+    "ts": 1790099150.026593,
+    "event_type": "DRAW",
+    "turn_count": 2,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Player_3",
+      "card": "[♦4]"
+    }
+  },
+  {
+    "event_id": 16,
+    "ts": 1790099150.0266268,
+    "event_type": "DRAW",
+    "turn_count": 3,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Li_Yue",
+      "card": "[♣Q]"
+    }
+  },
+  {
+    "event_id": 18,
+    "ts": 1790099150.0266573,
+    "event_type": "DRAW",
+    "turn_count": 4,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Architect_Hsu",
+      "card": "[♦K]"
+    }
+  },
+  {
+    "event_id": 20,
+    "ts": 1790099150.0266895,
+    "event_type": "DRAW",
+    "turn_count": 5,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Player_4",
+      "card": "[♥Q]"
+    }
+  },
+  {
+    "event_id": 21,
+    "ts": 1790099150.0267165,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Architect_Hsu",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♣Q]",
+        "[♥Q]"
+      ],
+      "force": true,
+      "reason": "hand_limit",
+      "hand_after": [
+        "🌟[4分]",
+        "🌟[2分]",
+        "[♠9]",
+        "[♦10]",
+        "[♥4]",
+        "[♠8]",
+        "[♠7]"
+      ]
+    }
+  },
+  {
+    "event_id": 23,
+    "ts": 1790099150.0267365,
+    "event_type": "DRAW",
+    "turn_count": 6,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "🌟[2分]"
+    }
+  },
+  {
+    "event_id": 25,
+    "ts": 1790099150.0267625,
+    "event_type": "DRAW",
+    "turn_count": 7,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Li_Yue",
+      "card": "[♦J]"
+    }
+  },
+  {
+    "event_id": 27,
+    "ts": 1790099150.0267873,
+    "event_type": "DRAW",
+    "turn_count": 8,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Player_3",
+      "card": "[♥9]"
+    }
+  },
+  {
+    "event_id": 29,
+    "ts": 1790099150.0268118,
+    "event_type": "DRAW",
+    "turn_count": 9,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Li_Yue",
+      "card": "[♥9]"
+    }
+  },
+  {
+    "event_id": 30,
+    "ts": 1790099150.0268328,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Architect_Hsu",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♠9]",
+        "[♥9]"
+      ],
+      "force": true,
+      "reason": "hand_limit",
+      "hand_after": [
+        "🌟[4分]",
+        "[♦10]",
+        "[♥4]",
+        "[♠8]",
+        "[♠7]"
+      ]
+    }
+  },
+  {
+    "event_id": 32,
+    "ts": 1790099150.026854,
+    "event_type": "DRAW",
+    "turn_count": 10,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Architect_Hsu",
+      "card": "[♠7]"
+    }
+  },
+  {
+    "event_id": 34,
+    "ts": 1790099150.0268807,
+    "event_type": "DRAW",
+    "turn_count": 11,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Player_4",
+      "card": "[♣2]"
+    }
+  },
+  {
+    "event_id": 36,
+    "ts": 1790099150.026913,
+    "event_type": "DRAW",
+    "turn_count": 12,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Player_3",
+      "card": "[♦J]"
+    }
+  },
+  {
+    "event_id": 37,
+    "ts": 1790099150.0269334,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Player_4",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♠J]",
+        "[♦J]"
+      ],
+      "force": true,
+      "reason": "hand_limit",
+      "hand_after": [
+        "[♥8]",
+        "[♥10]",
+        "[♦K]",
+        "[♠7]"
+      ]
+    }
+  },
+  {
+    "event_id": 39,
+    "ts": 1790099150.0269523,
+    "event_type": "DRAW",
+    "turn_count": 13,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Player_4",
+      "card": "[♦K]"
+    }
+  },
+  {
+    "event_id": 40,
+    "ts": 1790099150.0269685,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Player_3",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♣K]",
+        "[♦K]"
+      ],
+      "force": true,
+      "reason": "hand_limit",
+      "hand_after": [
+        "🌟[10分]",
+        "[♦7]",
+        "[♣2]"
+      ]
+    }
+  },
+  {
+    "event_id": 42,
+    "ts": 1790099150.0269845,
+    "event_type": "DRAW",
+    "turn_count": 14,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Player_3",
+      "card": "🌟[10分]"
+    }
+  },
+  {
+    "event_id": 44,
+    "ts": 1790099150.0270069,
+    "event_type": "DRAW",
+    "turn_count": 15,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Li_Yue",
+      "card": "[♦4]"
+    }
+  },
+  {
+    "event_id": 45,
+    "ts": 1790099150.0270238,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Architect_Hsu",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♥4]",
+        "[♦4]"
+      ],
+      "force": true,
+      "reason": "hand_limit",
+      "hand_after": [
+        "🌟[4分]",
+        "[♦10]",
+        "[♠8]"
+      ]
+    }
+  },
+  {
+    "event_id": 47,
+    "ts": 1790099150.0270398,
+    "event_type": "DRAW",
+    "turn_count": 16,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "[♦10]"
+    }
+  },
+  {
+    "event_id": 49,
+    "ts": 1790099150.0270588,
+    "event_type": "DRAW",
+    "turn_count": 17,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Li_Yue",
+      "card": "[♥2]"
+    }
+  },
+  {
+    "event_id": 51,
+    "ts": 1790099150.027079,
+    "event_type": "DRAW",
+    "turn_count": 18,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "🌟[4分]"
+    }
+  },
+  {
+    "event_id": 53,
+    "ts": 1790099150.0271006,
+    "event_type": "DRAW",
+    "turn_count": 19,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Li_Yue",
+      "card": "[♦10]"
+    }
+  },
+  {
+    "event_id": 55,
+    "ts": 1790099150.0271196,
+    "event_type": "COLLAPSE",
+    "turn_count": 19,
+    "payload": {
+      "direction_locked": -1
+    }
+  },
+  {
+    "event_id": 56,
+    "ts": 1790099150.027125,
+    "event_type": "DRAW",
+    "turn_count": 20,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Player_3",
+      "card": "[♦7]"
+    }
+  },
+  {
+    "event_id": 58,
+    "ts": 1790099150.0271554,
+    "event_type": "DRAW",
+    "turn_count": 21,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Player_4",
+      "card": "[♥10]"
+    }
+  },
+  {
+    "event_id": 60,
+    "ts": 1790099150.0271766,
+    "event_type": "DRAW",
+    "turn_count": 22,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 62,
+    "ts": 1790099150.027209,
+    "event_type": "DRAW",
+    "turn_count": 23,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Li_Yue",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 64,
+    "ts": 1790099150.0272298,
+    "event_type": "DRAW",
+    "turn_count": 24,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Player_3",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 65,
+    "ts": 1790099150.0272548,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Player_4",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♠7]",
+        "[♦7]"
+      ],
+      "force": true,
+      "reason": "collapse_keep_one",
+      "hand_after": [
+        "[♥8]",
+        "[♠8]"
+      ]
+    }
+  },
+  {
+    "event_id": 67,
+    "ts": 1790099150.0272727,
+    "event_type": "DRAW",
+    "turn_count": 25,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Player_4",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 69,
+    "ts": 1790099150.0272913,
+    "event_type": "DRAW",
+    "turn_count": 26,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 71,
+    "ts": 1790099150.0273087,
+    "event_type": "DRAW",
+    "turn_count": 27,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Li_Yue",
+      "card": "🌟[4分]"
+    }
+  },
+  {
+    "event_id": 73,
+    "ts": 1790099150.027328,
+    "event_type": "DRAW",
+    "turn_count": 28,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Player_3",
+      "card": "[♦10]"
+    }
+  },
+  {
+    "event_id": 75,
+    "ts": 1790099150.0273452,
+    "event_type": "DRAW",
+    "turn_count": 29,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Player_4",
+      "card": "[♥8]"
+    }
+  },
+  {
+    "event_id": 77,
+    "ts": 1790099150.027363,
+    "event_type": "DRAW",
+    "turn_count": 30,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "[♥2]"
+    }
+  },
+  {
+    "event_id": 79,
+    "ts": 1790099150.0273807,
+    "event_type": "DRAW",
+    "turn_count": 31,
+    "payload": {
+      "drawer": "Player_3",
+      "target": "Li_Yue",
+      "card": "[♥2]"
+    }
+  },
+  {
+    "event_id": 80,
+    "ts": 1790099150.027391,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Player_3",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♣2]",
+        "[♥2]"
+      ],
+      "force": true,
+      "hand_after": [
+        "🌟[4分]"
+      ]
+    }
+  },
+  {
+    "event_id": 81,
+    "ts": 1790099150.0273948,
+    "event_type": "EXIT",
+    "turn_count": 31,
+    "payload": {
+      "player": "Player_3",
+      "score": 4,
+      "reward": "🌟[4分]",
+      "reason": "voluntary_declared"
+    }
+  },
+  {
+    "event_id": 83,
+    "ts": 1790099150.0274112,
+    "event_type": "DRAW",
+    "turn_count": 32,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Li_Yue",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 85,
+    "ts": 1790099150.027431,
+    "event_type": "DRAW",
+    "turn_count": 33,
+    "payload": {
+      "drawer": "Architect_Hsu",
+      "target": "Player_4",
+      "card": "[♦10]"
+    }
+  },
+  {
+    "event_id": 86,
+    "ts": 1790099150.0274453,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Architect_Hsu",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♥10]",
+        "[♦10]"
+      ],
+      "force": false,
+      "reason": "voluntary",
+      "hand_after": [
+        "[♥8]"
+      ]
+    }
+  },
+  {
+    "event_id": 88,
+    "ts": 1790099150.0274572,
+    "event_type": "DRAW",
+    "turn_count": 34,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Architect_Hsu",
+      "card": "[♥8]"
+    }
+  },
+  {
+    "event_id": 90,
+    "ts": 1790099150.027473,
+    "event_type": "DRAW",
+    "turn_count": 35,
+    "payload": {
+      "drawer": "Player_4",
+      "target": "Li_Yue",
+      "card": "🌟[8分]"
+    }
+  },
+  {
+    "event_id": 92,
+    "ts": 1790099150.0275023,
+    "event_type": "REDISTRIBUTION",
+    "turn_count": 35,
+    "payload": {
+      "player": "Architect_Hsu",
+      "target": "Li_Yue",
+      "card": "🌟[2分]"
+    }
+  },
+  {
+    "event_id": 93,
+    "ts": 1790099150.0275083,
+    "event_type": "EXIT",
+    "turn_count": 35,
+    "payload": {
+      "player": "Architect_Hsu",
+      "score": 2,
+      "reward": "🌟[2分]",
+      "reason": "forced_turn_start"
+    }
+  },
+  {
+    "event_id": 95,
+    "ts": 1790099150.0275214,
+    "event_type": "DRAW",
+    "turn_count": 36,
+    "payload": {
+      "drawer": "Li_Yue",
+      "target": "Player_4",
+      "card": "[♠8]"
+    }
+  },
+  {
+    "event_id": 96,
+    "ts": 1790099150.0275247,
+    "event_type": "EXIT",
+    "turn_count": 36,
+    "payload": {
+      "player": "Player_4",
+      "score": 8,
+      "reward": "🌟[8分]",
+      "reason": "forced_passive_immediate"
+    }
+  },
+  {
+    "event_id": 97,
+    "ts": 1790099150.0275342,
+    "event_type": "DISCARD_PAIRS",
+    "turn_count": null,
+    "payload": {
+      "player": "Li_Yue",
+      "pairs_discarded": 1,
+      "discarded_cards": [
+        "[♥8]",
+        "[♠8]"
+      ],
+      "force": true,
+      "hand_after": [
+        "🌟[10分]"
+      ]
+    }
+  },
+  {
+    "event_id": 98,
+    "ts": 1790099150.0275373,
+    "event_type": "EXIT",
+    "turn_count": 36,
+    "payload": {
+      "player": "Li_Yue",
+      "score": 10,
+      "reward": "🌟[10分]",
+      "reason": "voluntary_declared"
+    }
+  }
+]
